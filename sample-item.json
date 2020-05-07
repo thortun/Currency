@@ -1,0 +1,92 @@
+{
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStrDex8.png?w=2&amp;h=2&amp;scale=1&amp;v=e041f1d30cb6e997023b09d2a822b7a6",
+      "league": "Delirium",
+      "id": "76b34cddcb01a1d9c6d845d8ac3d5269e01d34210830050e3856c6cf8dbdba49",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Miracle Halo",
+      "typeLine": "Fluted Bascinet",
+      "identified": true,
+      "ilvl": 81,
+      "properties": [
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "189",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        },
+        {
+          "name": "Evasion Rating",
+          "values": [
+            [
+              "202",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 17
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "60",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "64",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "64",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "+16 to Intelligence",
+        "12% increased Global Accuracy Rating",
+        "+29 to Armour",
+        "+42 to Evasion Rating",
+        "+89 to maximum Life",
+        "+8% to Fire Resistance",
+        "10% increased Light Radius"
+      ],
+      "enchantMods": [
+        "Icicle Mine has +30% to Critical Strike Multiplier"
+      ],
+      "frameType": 2,
+      "x": 17,
+      "y": 9,
+      "inventoryId": "Stash6",
+      "socketedItems": []
+    }

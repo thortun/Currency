@@ -1,0 +1,73 @@
+{
+  "verified": false,
+  "w": 2,
+  "h": 2,
+  "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStr4.png?w=2&amp;h=2&amp;scale=1&amp;v=973f42266055f8cc3e393558d2c18547",
+  "league": "Delirium",
+  "id": "614b04a41d6cee11b3e82506d2726af02a6b730d60a33422b3e865f26db41210",
+  "sockets": [
+    {
+      "group": 0,
+      "attr": "S",
+      "sColour": "R"
+    },
+    {
+      "group": 0,
+      "attr": "S",
+      "sColour": "R"
+    }
+  ],
+  "name": "Dread Visor",
+  "typeLine": "Close Helmet",
+  "identified": true,
+  "ilvl": 80,
+  "properties": [
+    {
+      "name": "Armour",
+      "values": [
+        [
+          "130",
+          0
+        ]
+      ],
+      "displayMode": 0,
+      "type": 16
+    }
+  ],
+  "requirements": [
+    {
+      "name": "Level",
+      "values": [
+        [
+          "60",
+          0
+        ]
+      ],
+      "displayMode": 0
+    },
+    {
+      "name": "Str",
+      "values": [
+        [
+          "58",
+          0
+        ]
+      ],
+      "displayMode": 1
+    }
+  ],
+  "explicitMods": [
+    "+290 to Accuracy Rating",
+    "+9 to maximum Life",
+    "28% increased Rarity of Items found",
+    "+14% to Fire Resistance"
+  ],
+  "enchantMods": [
+    "24% increased Ice Shot Area of Effect"
+  ],
+  "frameType": 2,
+  "x": 8,
+  "y": 0,
+  "inventoryId": "Stash6",
+  "socketedItems": []
+}
